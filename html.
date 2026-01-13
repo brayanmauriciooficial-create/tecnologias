@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tecnologia de aplicacion</title>
+    <h1>TECNOLOGIA DE APLICACION</h1>
+    <p>La tecnología de aplicación se refiere a la implementación
+         práctica de herramientas y conocimientos para optimizar procesos
+          y resolver problemas específicos, con ejemplos claros en la agricultura (pulverización eficiente de agroquímicos para máxima eficacia y mínimo impacto ambiental) y en informática (creación de software y aplicaciones móviles que mejoran la eficiencia en diversos sectores). En esencia, es llevar el conocimiento 
+        teórico a la acción para generar mejoras 
+        tangibles, controlando factores como la formulación</p>
+        <img src="tecnologias-que-usan-las-aplicaciones-famosas.jpg" alt="">
+        <p>La tecnología de aplicación es un conjunto de conocimientos que integran 
+            informaciones sobre los productos fitosanitarios, sus formulaciones, adyuvantes, el proceso de pulverización, los objetivos y el ambiente, objetivando una aplicación correcta,
+             segura y responsable, respetando siempre las Buenas Prácticas Agrícolas
+</head>
+<body>
+    
+</body>
+</html>
